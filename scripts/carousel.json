@@ -1,0 +1,31 @@
+﻿{
+	"sliders":[{
+
+"id": 1,
+
+"url": "img/carousel0.jpg",
+
+"alt": "slide0"
+},
+
+{
+
+"id": 2,
+
+"url": "img/carousel1.jpg",
+
+"alt": "slide1"
+},
+{
+
+"id": 3,
+
+"url": "img/carousel2.jpg",
+
+"alt": "slide2"
+
+
+
+}]
+
+}
